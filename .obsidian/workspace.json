@@ -25,14 +25,13 @@
             "id": "dac0ee7a30885f15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "test"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           },
           {
@@ -200,10 +199,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "dac0ee7a30885f15",
+  "active": "3725954137fc1da2",
   "lastOpenFiles": [
-    "Untitled.base",
     "test.md",
+    "Untitled.base",
     "research for poster.md",
     "Games Art Production/Maya.md",
     "Digital games art/Pixel environment-character.md",
