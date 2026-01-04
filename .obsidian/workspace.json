@@ -25,13 +25,14 @@
             "id": "dac0ee7a30885f15",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "penis.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "penis"
             }
           },
           {
@@ -201,8 +202,9 @@
   },
   "active": "3725954137fc1da2",
   "lastOpenFiles": [
-    "test.md",
     "Untitled.base",
+    "penis.md",
+    "test.md",
     "research for poster.md",
     "Games Art Production/Maya.md",
     "Digital games art/Pixel environment-character.md",
