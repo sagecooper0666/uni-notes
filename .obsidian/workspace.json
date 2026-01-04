@@ -25,12 +25,14 @@
             "id": "dac0ee7a30885f15",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "test"
             }
           },
           {
@@ -200,11 +202,12 @@
   },
   "active": "dac0ee7a30885f15",
   "lastOpenFiles": [
+    "Untitled.base",
+    "test.md",
     "research for poster.md",
     "Games Art Production/Maya.md",
     "Digital games art/Pixel environment-character.md",
     "Untitled.canvas",
-    "Untitled.base",
     "Games Art Production/Brief.md",
     "Games Art Production/UV Unwrapping.md",
     "Games Art Production/Pre Production.md",
