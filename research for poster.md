@@ -13,7 +13,7 @@ lucas pope
 - 
 subtopics 
 early life- 
-Lucas pope was born in 1978/1979 in Virginia America, and growing up, had a large access to an array of parts and tools which grew into a love for mechanical engineering. in highschool, he met a friend who helped give him an interest in robotics, and together they would take apart retail robotic kits while hooking them up to home computers to see how far they could push the cheap hardware and tweak the controls. 
+Lucas pope was born in 1978/1979 in Virginia America, and growing up, had a large access to an array of parts and tools which grew into a love for mechanical engineering. in highschool, he met a friend who helped give him an interest in robotics, and together they would take apart retail robotic kits while hooking them up to home computers to see how far they could push the cheap hardware and tweak the controls. this then inspired him to continue into the industry taking a course in mechanical engineering at Virginia tech. 
 introduction to the industry- 
 what inspired his biggest game-
 
