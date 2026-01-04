@@ -14,7 +14,8 @@ lucas pope
 subtopics 
 early life- 
 Lucas pope was born in 1978/1979 in Virginia America, and growing up, had a large access to an array of parts and tools which grew into a love for mechanical engineering. in highschool, he met a friend who helped give him an interest in robotics, and together they would take apart retail robotic kits while hooking them up to home computers to see how far they could push the cheap hardware and tweak the controls. this then inspired him to continue into the industry taking a course in mechanical engineering at Virginia tech. After finishing his degree, he learned that he was more interested in the software element of the coursework and aas a result he got involved with the Quake community developing mods, primarily working on art used for characters within these mods.
-introduction to the industry- As his love for modding took off, he decided to start a games company with another set of modders which is how Ratloop was created. They created a wellknown mod called Mali
+introduction to the industry- As his love for modding took off, he decided to start a games company with another set of modders which is how Ratloop was created. They created a wellknown mod called Malice for Quake. While this did well in itself, the early industry had too many drawbacks with physical game copies required as well as publishers to fund such copies, and although it was taken up by Acitivision for retail distribution anything else which Ratloop created wasnt ever published, causing the company to eventually become dormant. 
+His biggest c
 what inspired his biggest game-
 
 
