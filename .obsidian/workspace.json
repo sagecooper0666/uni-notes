@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "dac0ee7a30885f15",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
             "id": "5c4f3f195f047344",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "research for poster"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,16 +198,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "77b357747e0faad2",
+  "active": "dac0ee7a30885f15",
   "lastOpenFiles": [
+    "research for poster.md",
+    "Games Art Production/Maya.md",
     "Digital games art/Pixel environment-character.md",
     "Untitled.canvas",
     "Untitled.base",
-    "research for poster.md",
     "Games Art Production/Brief.md",
     "Games Art Production/UV Unwrapping.md",
     "Games Art Production/Pre Production.md",
-    "Games Art Production/Maya.md",
     "Games Art Production/Exemplar work.md",
     "Studying the Games Industry.md",
     "2025-09-30.md",
