@@ -12,6 +12,8 @@ lucas pope
 - haxe is a high-level-cross-platform programming language and compiler that can produce applications and souce code for many different computing platforms from one code-base. free and open source software 
 - 
 subtopics 
+early life- 
+Lucas pope was born in 1978/1979 in Virginia America, and growing up, had a large access to an array of parts and tools which allowed him to acc
 introduction to the industry- 
 what inspired his biggest game-
 
