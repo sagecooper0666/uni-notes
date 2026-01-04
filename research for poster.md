@@ -13,7 +13,7 @@ lucas pope
 - 
 subtopics 
 early life- 
-Lucas pope was born in 1978/1979 in Virginia America, and growing up, had a large access to an array of parts and tools which allowed him to acc
+Lucas pope was born in 1978/1979 in Virginia America, and growing up, had a large access to an array of parts and tools which grew into a love for mechanical engineering. in highschool, he met someo
 introduction to the industry- 
 what inspired his biggest game-
 
