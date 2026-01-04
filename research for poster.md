@@ -11,7 +11,9 @@ lucas pope
 - before papers pleased was made, he created a flash game in a warmup to Ludem Dare 23 in 2012, The Republican Times, seeing the player as a editor-in-chief for a newspaper in a country at war with Arstozka. 
 - haxe is a high-level-cross-platform programming language and compiler that can produce applications and souce code for many different computing platforms from one code-base. free and open source software 
 - 
-
+subtopics 
+introduction to the industry- 
+what inspired his biggest game-
 
 
 https://www.vg247.com/lucas-pope-im-kind-of-sick-to-death-of-papers-please
