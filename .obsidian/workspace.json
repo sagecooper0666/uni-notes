@@ -25,14 +25,13 @@
             "id": "dac0ee7a30885f15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "penis.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "penis"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           },
           {
@@ -196,13 +195,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "3725954137fc1da2",
+  "active": "dac0ee7a30885f15",
   "lastOpenFiles": [
-    "Untitled.base",
     "penis.md",
+    "Untitled.base",
     "test.md",
     "research for poster.md",
     "Games Art Production/Maya.md",
