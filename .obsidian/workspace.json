@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital games art/Pixel environment-character.md",
+                "file": "Studying the games industry/references for bibliography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pixel environment-character"
+              "title": "references for bibliography"
             }
           },
           {
@@ -213,8 +213,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "3725954137fc1da2",
+  "active": "82d558a384badf4f",
   "lastOpenFiles": [
+    "Digital games art/Pixel environment-character.md",
     "Studying the games industry/references for bibliography.md",
     "Studying the games industry/HARVARD REFERENCING.md",
     "Studying the games industry/research for poster.md",
@@ -225,7 +226,6 @@
     "Untitled.canvas",
     "test.md",
     "Games Art Production/Maya.md",
-    "Digital games art/Pixel environment-character.md",
     "Games Art Production/Brief.md",
     "Games Art Production/UV Unwrapping.md",
     "Games Art Production/Pre Production.md",
