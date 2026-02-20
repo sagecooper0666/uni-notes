@@ -7,9 +7,10 @@ https://www.bbc.co.uk/news/technology-42311533 (20/02/26
 
 https://www.espn.com/espn/feature/story/_/id/18510975/how-counter-strike-turned-teenager-compulsive-gambler (20/02/26)
 -demonstrates the effect that underage gambling will have on people and also their families
--shows how influencers use theirown sits to make money and post it online tricking young kids into attemping to 
+-shows how influencers use their own sits to make money and post it online tricking young kids into attempting to do the same and inevitably failing
  https://www.sciencedirect.com/science/article/abs/pii/S0306460319301091 (20/02/26)
 -focuses on the phycological stress around gaming and gambling
+-people suffering from withdraws from not gambling in games and turning to other methods of gambling 
 
 
 
