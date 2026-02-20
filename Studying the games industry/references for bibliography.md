@@ -7,5 +7,8 @@ https://www.bbc.co.uk/news/technology-42311533 (20/02/26
 https://www.espn.com/espn/feature/story/_/id/18510975/how-counter-strike-turned-teenager-compulsive-gambler (20/02/26)
 -demonstrates the effect that underage gambling will have on people and also their families
 
-https://www.theverge.com/news/610599/overwatch-2-season-15-16-update-stadium-new-character-freja-loot-boxes (20/02/26)
--focuses on the phycololgical stress around gaming and gambling
+ https://www.sciencedirect.com/science/article/abs/pii/S0306460319301091 (20/02/26)
+-focuses on the phycological stress around gaming and gambling
+
+
+
