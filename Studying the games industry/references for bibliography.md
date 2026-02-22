@@ -20,4 +20,5 @@ https://www.youtube.com/watch?v=eMmNy11Mn7g (22/02/26)
 -this is relevant as it shows why valve isn't quick to implement stricter rules surrounding the gambling system even when faced with outrage from parents as their children develop gambling addictions.
 
 https://www.theguardian.com/games/2019/oct/30/counter-strike-trading-found-to-be-nearly-all-money-laundering
+-people use illegal money, liquidate them into in game currency and then sell on the skins and other cosmetics earned from this to have a 'clean' money with no trace back to its original source. 
 -
