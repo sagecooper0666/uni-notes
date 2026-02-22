@@ -14,5 +14,6 @@ https://www.espn.com/espn/feature/story/_/id/18510975/how-counter-strike-turned-
 -focuses on the phycological stress around gaming and gambling
 -people suffering from withdraws from not gambling in games and turning to other methods of gambling 
 
-
-
+https://www.youtube.com/watch?v=eMmNy11Mn7g (22/02/26)
+-valve makes millions a year off of loot box costs as well as taking a small fee for each of the selling of skins on the market
+-this is relevent as it shows why valve isnt quick to impliment stricter la
