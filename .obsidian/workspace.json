@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "references for bibliography"
             }
+          },
+          {
+            "id": "a7e00f201bd0ac7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studying the games industry/references for bibliography.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "references for bibliography"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -200,10 +214,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "29e36e087d672f35",
+  "active": "a7e00f201bd0ac7c",
   "lastOpenFiles": [
-    "Studying the games industry/research for poster.md",
+    "Untitled.md",
     "Studying the games industry/references for bibliography.md",
+    "Studying the games industry/research for poster.md",
     "Studying the games industry/HARVARD REFERENCING.md",
     "Games Art Production/Maya.md",
     "research for poster.md",
