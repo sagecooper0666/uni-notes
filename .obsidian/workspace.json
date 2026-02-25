@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "HARVARD REFERENCING"
             }
+          },
+          {
+            "id": "29e36e087d672f35",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,7 +198,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "16b560346a04f8f8",
+  "active": "29e36e087d672f35",
   "lastOpenFiles": [
     "Studying the games industry/references for bibliography.md",
     "Studying the games industry/HARVARD REFERENCING.md",
