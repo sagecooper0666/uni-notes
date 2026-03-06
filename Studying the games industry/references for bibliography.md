@@ -28,3 +28,10 @@ https://www.youtube.com/watch?v=eMmNy11Mn7g (22/02/26)
 https://www.theguardian.com/games/2019/oct/30/counter-strike-trading-found-to-be-nearly-all-money-laundering
 -people use illegal money, liquidate them into in game currency and then sell on the skins and other cosmetics earned from this to have a 'clean' money with no trace back to its original source. 
 -
+
+essay plan 
+-introduction
+	talk about the 
+-main body 
+	discuss the ecinomic factors for steam itself, how they benefit on keeping gambling sites open dispite open backlash from governments or the general public. 
+	the phycological factors that are effecting the younger generations, giving them gambling addictions - this shows the effect on the gaming industry as they 
