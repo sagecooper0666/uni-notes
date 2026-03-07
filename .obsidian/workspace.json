@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "references for bibliography"
             }
+          },
+          {
+            "id": "f84753b59580a582",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -214,7 +226,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "a7e00f201bd0ac7c",
+  "active": "f84753b59580a582",
   "lastOpenFiles": [
     "Untitled.md",
     "Studying the games industry/references for bibliography.md",
