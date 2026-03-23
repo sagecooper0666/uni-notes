@@ -11,4 +11,5 @@ activities
 	- ss
 	- s
 - bowling 
+- minigolfing 
 - 
