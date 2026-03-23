@@ -19,7 +19,6 @@ activities
 	- the one o'clock gun 
 	- the roof project
 	- love lane 
-	- 
 - bowling
 	- Roxy Ballrooms
 - minigolfing 
@@ -43,4 +42,5 @@ Dinners
 	- greek style salad 
 	- mac and cheese 
 	- chippy 
-	- 
+	- pasta bake 
+	
