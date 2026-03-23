@@ -21,8 +21,16 @@ activities
 	- love lane 
 	- 
 - bowling
-	- Roxy Lanes
+	- Roxy Ballrooms
 - minigolfing 
+	- golf fang 
 - foot pool 
+	- Boston pool
 -  shopping 
-- 
+	- route one 
+	- urban outfitters 
+	- anywhere else in town fr
+- Dinners 
+	- meat me - greek 
+	- picante - mexican 
+	- 
