@@ -7,5 +7,4 @@ discuss the economic factors for steam itself, how they benefit on keeping gambl
 the phycological factors that are effecting the younger generations, giving them gambling addictions - this shows the effect on the gaming industry as other companies steer towards using loot boxes/other gambling methods to encourage more players onto their games.
 - young kids being introduced to gambling at a very young age have a higher chance to develop gambling addictions further in life.
 money laundering and using dirty money within the industry, taking money from illegal sources and putting it through the gambling sites in order to make it 'clean' again.
-
-	
+- another reason the government wants to clamp down on the gambling sites as it allows illegal money to be circulated into the system.
