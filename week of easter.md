@@ -30,7 +30,13 @@ activities
 	- route one 
 	- urban outfitters 
 	- anywhere else in town fr
-- Dinners 
-	- meat me - greek 
-	- picante - mexican 
-	- 
+	- redbrick market 
+Dinners 
+	Out 
+	 - meat me - Greek 
+	 - picante - Mexican 
+	 - Baltic market - variant
+	In 
+	- burrito bowls 
+	- sushi bake 
+	- hallumi and 
