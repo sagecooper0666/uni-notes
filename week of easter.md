@@ -8,8 +8,10 @@ activities
 - skateboarding 
 - park w/ football (maybe picnic)
 - cocktail bar 
-	- ss
-	- s
-- bowling 
+	- bar glue 
+	- alberts schloss 
+	- the one o'clock gun 
+	- 
+- bowling
 - minigolfing 
 - foot pool 
