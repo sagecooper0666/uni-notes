@@ -1,4 +1,4 @@
-Korato arrives 9am ish - 1st of April 
+Kotaro arrives 9am ish - 1st of April 
 Dennis arrives 9am ish - 1st of April 
 Ryan arrives 11am - 1st of April 
 
