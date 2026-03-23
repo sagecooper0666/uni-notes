@@ -12,4 +12,4 @@ activities
 	- s
 - bowling 
 - minigolfing 
-- 
+- foot pool 
