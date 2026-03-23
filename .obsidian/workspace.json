@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital art creative checklist.md",
+                "file": "Traditional Art checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Digital art creative checklist"
+              "title": "Traditional Art checklist"
             }
           }
         ],
@@ -242,8 +242,8 @@
   },
   "active": "0208724ffd0fc10f",
   "lastOpenFiles": [
-    "Traditional Art checklist.md",
     "Digital art creative checklist.md",
+    "Traditional Art checklist.md",
     "week of easter.md",
     "Studying the games industry/Essay Plan.md",
     "Studying the games industry/HARVARD REFERENCING.md",
