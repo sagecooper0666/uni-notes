@@ -37,6 +37,7 @@ Dinners
 	 - picante - Mexican 
 	 - Baltic market - variant
 	In 
-	- burrito bowls 
+	- burrito bowls / burritos
 	- sushi bake 
-	- hallumi and 
+	- halloumi and chorizo pasta
+	- greek style salad 
