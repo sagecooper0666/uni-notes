@@ -4,6 +4,26 @@
     "type": "split",
     "children": [
       {
+        "id": "f2d028aaa3f8d4d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7e00f201bd0ac7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studying the games industry/references for bibliography.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "references for bibliography"
+            }
+          }
+        ]
+      },
+      {
         "id": "3c49b9e66b16a658",
         "type": "tabs",
         "children": [
@@ -50,20 +70,6 @@
             }
           },
           {
-            "id": "a7e00f201bd0ac7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studying the games industry/references for bibliography.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "references for bibliography"
-            }
-          },
-          {
             "id": "f84753b59580a582",
             "type": "leaf",
             "state": {
@@ -76,21 +82,21 @@
             }
           },
           {
-            "id": "0208724ffd0fc10f",
+            "id": "f9ca77dfefc736d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traditional Art checklist.md",
+                "file": "Studying the games industry/Essay Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Traditional Art checklist"
+              "title": "Essay Plan"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -211,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research for poster.md",
+                "file": "Studying the games industry/Essay Plan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of research for poster"
+              "title": "Outline of Essay Plan"
             }
           }
         ],
@@ -240,7 +246,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "0208724ffd0fc10f",
+  "active": "f9ca77dfefc736d6",
   "lastOpenFiles": [
     "Digital art creative checklist.md",
     "Traditional Art checklist.md",

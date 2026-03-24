@@ -8,3 +8,5 @@ the phycological factors that are effecting the younger generations, giving them
 - young kids being introduced to gambling at a very young age have a higher chance to develop gambling addictions further in life.
 money laundering and using dirty money within the industry, taking money from illegal sources and putting it through the gambling sites in order to make it 'clean' again.
 - another reason the government wants to clamp down on the gambling sites as it allows illegal money to be circulated into the system.
+##### - Conclusion
+discuss the overall negative effect of skin betting, summarising all of the points mentioned. detail the growing decline of game standards as all games shift towards the gambling methods in order to gain a larger audience. 
