@@ -23,39 +23,20 @@
             }
           },
           {
-            "id": "16b560346a04f8f8",
+            "id": "dac0ee7a30885f15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Studying the games industry/HARVARD REFERENCING.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "HARVARD REFERENCING"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           },
           {
-<<<<<<< HEAD
             "id": "0c7c9bfe11285f49",
-=======
-            "id": "29e36e087d672f35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studying the games industry/references for bibliography.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "references for bibliography"
-            }
-          },
-          {
-            "id": "a7e00f201bd0ac7c",
->>>>>>> 3643f952c107506e6a88ec0058215be9a19b02f7
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,33 +50,30 @@
             }
           },
           {
-            "id": "f84753b59580a582",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
-          },
-          {
-            "id": "0208724ffd0fc10f",
+            "id": "8cac55bb85bdb9b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "5c4f3f195f047344",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-<<<<<<< HEAD
         "currentTab": 2
       },
       {
@@ -118,9 +96,6 @@
             }
           }
         ]
-=======
-        "currentTab": 5
->>>>>>> 3643f952c107506e6a88ec0058215be9a19b02f7
       }
     ],
     "direction": "vertical"
@@ -270,29 +245,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "0208724ffd0fc10f",
+  "active": "0c7c9bfe11285f49",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Studying the games industry/2.references for bibliography.md",
+    "Untitled.md",
     "Studying the games industry/3.Essay Plan.md",
+    "Untitled 1.md",
+    "Studying the games industry/2.references for bibliography.md",
     "Studying the games industry/1.research for poster.md",
     "Digital games art/Pixel environment-character.md",
     "Studying the games industry/HARVARD REFERENCING.md",
-=======
-    "Untitled 1.md",
-    "Untitled.md",
-    "Studying the games industry/references for bibliography.md",
-    "Studying the games industry/research for poster.md",
-    "Studying the games industry/HARVARD REFERENCING.md",
-    "Games Art Production/Maya.md",
-    "research for poster.md",
->>>>>>> 3643f952c107506e6a88ec0058215be9a19b02f7
     "Untitled.base",
     "Studying the games industry",
     "penis.md",
-    "test.md",
-    "Digital games art/Pixel environment-character.md",
     "Untitled.canvas",
+    "test.md",
+    "Games Art Production/Maya.md",
     "Games Art Production/Brief.md",
     "Games Art Production/UV Unwrapping.md",
     "Games Art Production/Pre Production.md",
