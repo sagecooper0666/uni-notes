@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f2d028aaa3f8d4d0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a7e00f201bd0ac7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studying the games industry/references for bibliography.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "references for bibliography"
-            }
-          }
-        ]
-      },
-      {
         "id": "3c49b9e66b16a658",
         "type": "tabs",
         "dimension": 47.90268456375839,
@@ -70,21 +50,20 @@
             }
           },
           {
-            "id": "8cac55bb85bdb9b1",
+            "id": "ef3f453988db470c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Studying the games industry/3.Essay Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "3.Essay Plan"
             }
           },
           {
-<<<<<<< HEAD
             "id": "5c4f3f195f047344",
             "type": "leaf",
             "state": {
@@ -95,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "6bc7d88c93f3a498",
@@ -117,35 +96,6 @@
             }
           }
         ]
-=======
-            "id": "f84753b59580a582",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
-          },
-          {
-            "id": "f9ca77dfefc736d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studying the games industry/Essay Plan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Essay Plan"
-            }
-          }
-        ],
-        "currentTab": 4
->>>>>>> e1b9ff55f658f2ab640a930125202a173462c6df
       }
     ],
     "direction": "vertical"
@@ -266,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studying the games industry/Essay Plan.md",
+                "file": "research for poster.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Essay Plan"
+              "title": "Outline of research for poster"
             }
           }
         ],
@@ -295,29 +245,19 @@
       "bases:Create new base": false
     }
   },
-<<<<<<< HEAD
-  "active": "0c7c9bfe11285f49",
+  "active": "ef3f453988db470c",
   "lastOpenFiles": [
+    "Digital art creative checklist.md",
+    "Traditional Art checklist.md",
     "Untitled.md",
     "Studying the games industry/3.Essay Plan.md",
+    "week of easter.md",
+    "Studying the games industry/Essay Plan.md",
     "Untitled 1.md",
     "Studying the games industry/2.references for bibliography.md",
     "Studying the games industry/1.research for poster.md",
     "Digital games art/Pixel environment-character.md",
     "Studying the games industry/HARVARD REFERENCING.md",
-=======
-  "active": "f9ca77dfefc736d6",
-  "lastOpenFiles": [
-    "Digital art creative checklist.md",
-    "Traditional Art checklist.md",
-    "week of easter.md",
-    "Studying the games industry/Essay Plan.md",
-    "Studying the games industry/HARVARD REFERENCING.md",
-    "Studying the games industry/references for bibliography.md",
-    "Studying the games industry/research for poster.md",
-    "Games Art Production/Maya.md",
-    "research for poster.md",
->>>>>>> e1b9ff55f658f2ab640a930125202a173462c6df
     "Untitled.base",
     "Studying the games industry",
     "penis.md",
