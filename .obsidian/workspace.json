@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aa1def6755a8c5f2",
@@ -208,9 +209,9 @@
   },
   "active": "bd71941f52d610b0",
   "lastOpenFiles": [
-    "Studying the games industry/Essay Plan.md",
     "Studying the games industry/2.references for bibliography.md",
     "Studying the games industry/3.Essay Plan.md",
+    "Studying the games industry/Essay Plan.md",
     "Digital art creative checklist.md",
     "Traditional Art checklist.md",
     "Games Art Production/Maya.md",
