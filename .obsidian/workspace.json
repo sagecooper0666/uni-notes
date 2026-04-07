@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studying the games industry/3.Essay Plan.md",
+                "file": "Digital art creative checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.Essay Plan"
+              "title": "Digital art creative checklist"
             }
           },
           {
@@ -33,27 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "3.Essay Plan"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "90e06501a36519eb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "eb795b1d8a728ff9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studying the games industry/2.references for bibliography.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.references for bibliography"
             }
           }
         ]
@@ -113,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aa1def6755a8c5f2",
@@ -207,13 +185,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "eb795b1d8a728ff9",
+  "active": "77b357747e0faad2",
   "lastOpenFiles": [
+    "Traditional Art checklist.md",
+    "Digital art creative checklist.md",
     "Studying the games industry/3.Essay Plan.md",
     "Studying the games industry/2.references for bibliography.md",
     "Studying the games industry/Essay Plan.md",
-    "Digital art creative checklist.md",
-    "Traditional Art checklist.md",
     "Games Art Production/Maya.md",
     "Studying the games industry/HARVARD REFERENCING.md",
     "Untitled.md",
