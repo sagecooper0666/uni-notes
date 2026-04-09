@@ -6,6 +6,7 @@
       {
         "id": "3c49b9e66b16a658",
         "type": "tabs",
+        "dimension": 49.16020671834625,
         "children": [
           {
             "id": "77b357747e0faad2",
@@ -27,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital games art/Digital art creative checklist.md",
+                "file": "Studying the games industry/3.Essay Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Digital art creative checklist"
+              "title": "3.Essay Plan"
             }
           }
         ],
@@ -41,6 +42,7 @@
       {
         "id": "90e06501a36519eb",
         "type": "tabs",
+        "dimension": 50.83979328165375,
         "children": [
           {
             "id": "eb795b1d8a728ff9",
@@ -206,10 +208,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "3725954137fc1da2",
+  "active": "373fbba744858fc5",
   "lastOpenFiles": [
-    "Untitled.md",
     "Digital games art/Digital art creative checklist.md",
+    "Untitled.md",
     "traditional art/Traditional Art checklist.md",
     "traditional art.md",
     "traditional art",
