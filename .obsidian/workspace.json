@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "03fd91f6f645be77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "bd71941f52d610b0",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "3.Essay Plan"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,31 +200,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "77b357747e0faad2",
+  "active": "03fd91f6f645be77",
   "lastOpenFiles": [
-<<<<<<< HEAD
-=======
-    "Studying the games industry/2.references for bibliography.md",
     "Studying the games industry/3.Essay Plan.md",
-    "Digital games art/Digital art creative checklist.md",
     "Untitled.md",
->>>>>>> 30dac1c6737503bda4e1e3c035ed8bd491abbcb1
     "traditional art/Traditional Art checklist.md",
     "traditional art",
-<<<<<<< HEAD
     "Digital games art/Digital art creative checklist.md",
     "Studying the games industry/Essay Plan.md",
     "Digital art creative checklist.md",
     "Traditional Art checklist.md",
-    "Studying the games industry/3.Essay Plan.md",
     "Studying the games industry/2.references for bibliography.md",
-=======
-    "week of easter.md",
-    "Studying the games industry/Essay Plan.md",
->>>>>>> 30dac1c6737503bda4e1e3c035ed8bd491abbcb1
     "Games Art Production/Maya.md",
     "Studying the games industry/HARVARD REFERENCING.md",
-    "Untitled.md",
     "Studying the games industry/1.research for poster.md",
     "week of easter.md",
     "Studying the games industry/references for bibliography.md",
