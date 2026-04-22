@@ -1,6 +1,6 @@
 ### Creative 
 1. gesture - done (include this)
-2. animal anatomy - near done (include this)
+2. animal anatomy - done (include this)
 3. pop art - done (include this)
 4. clothing studies 1: folds etc. - done (include this)
 5. Clothing studies 2: traditional/period studies - not started (include this)
