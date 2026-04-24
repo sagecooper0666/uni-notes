@@ -3,7 +3,7 @@
 2. animal anatomy - done (include this)
 3. pop art - done (include this)
 4. clothing studies 1: folds etc. - done (include this)
-5. Clothing studies 2: traditional/period studies - not started (include this)
+5. Clothing studies 2: traditional/period studies - done (include this)
 6. dreamscapes - not started 
 7. art in the everyday - not started 
 8. torn halves - not started 
