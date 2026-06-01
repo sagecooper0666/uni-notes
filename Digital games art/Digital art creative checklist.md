@@ -1,4 +1,4 @@
-1. 3 point perspective - done 
+
 
 games production checklist
 - bridge asset
