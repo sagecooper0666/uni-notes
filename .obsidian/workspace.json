@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "traditional art/Traditional Art checklist.md",
+                "file": "Digital games art/Digital art creative checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Traditional Art checklist"
+              "title": "Digital art creative checklist"
             }
           }
         ],
@@ -188,8 +188,8 @@
   },
   "active": "373fbba744858fc5",
   "lastOpenFiles": [
-    "Digital games art/Digital art creative checklist.md",
     "traditional art/Traditional Art checklist.md",
+    "Digital games art/Digital art creative checklist.md",
     "Digital games art/Pixel environment-character.md",
     "Untitled.md",
     "Untitled 1.md",
