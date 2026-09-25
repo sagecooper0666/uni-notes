@@ -36,8 +36,23 @@ Clutter
 - crimson newt
 
 Critters and Companions 
-- 
+- otter
+- ferret
+- koi fish
+- dumbo octopus
+- sea bunny
+- dragonfly 
+- red panda
+- jumping spider
+- stick bug
+- acorn weevil
+- stag beetle
+- rolypoly
+- snail
+- ladybug
+
 Cute Companions: Ducks 
+- ducks
 Naturalist 
 Tide 2 
 Longwings
