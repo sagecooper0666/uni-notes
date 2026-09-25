@@ -19,7 +19,6 @@ Bloomcraft
 - cluckbloom
 
 Clutter
-- butterfly
 - capybara
 - coati
 - crab
@@ -51,16 +50,12 @@ Cute Companions: Ducks
 
 Naturalist 
 - tortoise 
-- dragonflies
-- ducks
 - zebra
 - lions
-- butterflies
 - deer
 - fireflies
 - giraffes
 - vultures
-- snails
 - elephants
 - bears
 - rattlesnakes
