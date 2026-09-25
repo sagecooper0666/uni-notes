@@ -1,5 +1,4 @@
 [Let's Do] WilderNature 
-- deer, meat drop
 - bison
 - boar
 - cassowary, meat drop
@@ -10,10 +9,7 @@
 - squirrel 
 - swift fox 
 - turkey
-- elephant
-- giraffe
 - hippo
-- lion
 - beaver
 - scopions
 - termite
@@ -23,7 +19,6 @@ Bloomcraft
 - cluckbloom
 
 Clutter
-- beaver 
 - butterfly
 - capybara
 - coati
