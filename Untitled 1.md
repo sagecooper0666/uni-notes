@@ -17,9 +17,15 @@
 - beaver
 - scopions
 - termite
-Bloomcraft 
 
-Clutter Clutter: Bestiary 
+Bloomcraft 
+- moobloom
+- cluckbloom
+
+Clutter 
+
+Clutter: Bestiary 
+- 
 Critters and Companions 
 Cute Companions: Ducks 
 Naturalist 
