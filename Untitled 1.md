@@ -22,11 +22,21 @@ Bloomcraft
 - moobloom
 - cluckbloom
 
-Clutter 
+Clutter
+- beaver 
+- butterfly
+- capybara
+- coati
+- crab
+- echofin
+- emperor penguin
+- jellyfih
+- kiwi
+- mossbloom
+- crimson newt
 
-Clutter: Bestiary 
-- 
 Critters and Companions 
+- 
 Cute Companions: Ducks 
 Naturalist 
 Tide 2 
