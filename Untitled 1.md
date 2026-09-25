@@ -6,8 +6,19 @@
 - dog
 - hedgehog
 - minisheep
-- racoo
+- racoon
+- squirrel 
+- swift fox 
+- turkey
+- elephant
+- giraffe
+- hippo
+- lion
+- beaver
+- scopions
+- termite
 Bloomcraft 
+
 Clutter Clutter: Bestiary 
 Critters and Companions 
 Cute Companions: Ducks 
