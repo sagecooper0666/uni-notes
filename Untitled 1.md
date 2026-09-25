@@ -53,6 +53,28 @@ Critters and Companions
 
 Cute Companions: Ducks 
 - ducks
+
 Naturalist 
+- tortoise 
+- dragonflies
+- ducks
+- zebra
+- lions
+- butterflies
+- deer
+- fireflies
+- giraffes
+- vultures
+- snails
+- elephants
+- bears
+- rattlesnakes
+- rhinos
+- bird
+
 Tide 2 
+- fish
+
 Longwings
+- butterflies (52 types)
+- moths (18 types)
